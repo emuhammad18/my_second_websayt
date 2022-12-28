@@ -1,2 +1,2 @@
 # my_second_websayt
-fast-food-slogan.netlify.app/
+<a href="https://fast-food-slogan.netlify.app/">Link☝</a>
